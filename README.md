@@ -1,7 +1,5 @@
 # ADmyBRAND AI Suite - Landing Page
 
-![ADmyBRAND AI Suite Preview](https://placehold.co/1920x1080?text=ADmyBRAND+AI+Suite+Screenshot&font=roboto)
-
 A modern, responsive landing page for AI-powered marketing tools featuring glassmorphism design, animated components, and mobile-first UX.
 
 ## Features
