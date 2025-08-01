@@ -19,8 +19,6 @@
   - Report/document automation  
   - Competitive research
 
-![AI Tool Adoption Trends](https://placehold.co/600x300?text=AI+Tool+Adoption+Trends)
-
 ---
 
 ## 👥 2. Demographic Insights
@@ -50,16 +48,6 @@
 | GitHub Copilot        | 6.8 hours                 | Code suggestions, documentation    |
 | Microsoft 365 Copilot | 3.9 hours                 | Slide creation, document editing   |
 | Notion AI             | 2.5 hours                 | Internal wikis, task summaries     |
-
----
-
-## 💬 4. Feedback from Teams
-
-> “ChatGPT has transformed our workflows in marketing. From social media to technical blog drafts—it’s like a full-time assistant.”  
-> — *Aisha Verma, Senior Content Manager*
-
-> “GitHub Copilot feels like another engineer on the team. Faster code, fewer bugs.”  
-> — *Ravi Thakur, Lead Developer*
 
 ---
 
